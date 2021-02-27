@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFx"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javafx"/>
+	<classpathentry kind="lib" path="jfoenix-8.0.8.jar" sourcepath="jfoenix-8.0.8.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Alaa%20Khawaled/eclipse-workspace/SW-Lions/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="json-simple-2.3.1.jar" sourcepath="json-simple-2.3.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Alaa%20Khawaled/eclipse-workspace/SW-Lions/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
